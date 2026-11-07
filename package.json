@@ -1,0 +1,20 @@
+{
+  "name": "ts-knuth-morris",
+  "version": "1.0.0",
+  "description": "Knuth-Morris-Pratt string search with failure function",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "kmp", "string-search", "algorithms", "patterns"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-knuth-morris.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
